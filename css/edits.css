@@ -1,0 +1,10 @@
+.c-entry-header-post:before {
+    height: var(--rie-post-header-height, 80rem);
+}
+
+@media (max-width: 600px) {
+    .wp-block-image .alignright,
+    .wp-block-image .alignleft {
+        max-width: 180px;
+    }
+}
