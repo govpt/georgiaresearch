@@ -2071,7 +2071,7 @@ a.skip-main {
 
     .header-menu-container.mobile-active {
         height: 100%;
-        background: #0101f1;
+        background: #951313;
         color: #fff
     }
 
@@ -4131,7 +4131,7 @@ iframe::-webkit-scrollbar {
     }
 
     .template__sidebar__mobile {
-        background: #0101f1;
+        background: #ef0101;
         padding: 2rem 1.5rem
     }
 
@@ -4576,7 +4576,7 @@ iframe::-webkit-scrollbar {
 }
 
 .template.history-bg .template__content {
-    background: #000096
+    background: #940000
 }
 
 @keyframes slideout {
