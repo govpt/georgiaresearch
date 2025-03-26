@@ -1,14 +1,3 @@
-
-.c-hero__image-container-inner {
-    width: 100%;
-    height: 100vh;
-    position: relative;
-    overflow: hidden;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
 .c-hero__image-container-inner img {
     width: 100%;
     height: 100%;
