@@ -7,12 +7,12 @@
 }
 
 .cookie-notice-container {
-    color: #000096 !important;
+    color: #940000 !important;
     background: #fff !important
 }
 
 #cn-accept-cookie {
-    background-color: #0000f0 !important;
+    background-color: #f00000 !important;
     color: #fff !important;
     border-radius: 35px !important;
     padding: 8px 25px !important;
@@ -35,7 +35,7 @@
     height: 58px;
     width: 58px;
     margin-right: 12px;
-    background: #000096
+    background: #940000
 }
 
 .event__title_helper svg * {
@@ -59,11 +59,11 @@
 }
 
 .solution-category-label.blue-label svg * {
-    stroke: #0000f0
+    stroke: #f00000
 }
 
 .event.active .event__title_helper svg * {
-    stroke: #0000f0;
+    stroke: #f00000;
     fill: transparent
 }
 
@@ -108,7 +108,7 @@
 }
 
 .custom-modal .close-modal svg * {
-    stroke: #000096
+    stroke: #940000
 }
 
 .custom-modal .template__content {
@@ -146,7 +146,7 @@
 }
 
 .gform_title {
-    color: #0000f0;
+    color: #f00000;
     font-family: Aino, sans-serif;
     font-size: 24px;
     line-height: 32px
@@ -159,8 +159,8 @@
 .custom-modal input[type=submit] {
     border-radius: 25px;
     padding: 7px 60px;
-    background: #0000f0;
-    border: #0000f0;
+    background: #f00000;
+    border: #f00000;
     color: #fff;
     font-weight: 400;
     letter-spacing: .025em
@@ -225,7 +225,7 @@
 
 @media screen and (max-width:960px) {
     .mobile-btn-icon-burger.active svg * {
-        fill: #0000f0
+        fill: #f00000
     }
 }
 
@@ -277,7 +277,7 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 28px;
-    color: #0000f0;
+    color: #f00000;
     margin-right: 23px
 }
 
@@ -320,7 +320,7 @@
 
 .language-switch .wpml-ls>ul li.wpml-ls-current-language ul.wpml-ls-sub-menu li a span {
     margin-right: 0;
-    color: #0000f0
+    color: #f00000
 }
 
 .language-switch.ls-mobile .wpml-ls>ul li.wpml-ls-current-language a {
